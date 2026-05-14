@@ -94,4 +94,4 @@ To continue developing the project beyond the original tutorial, future improvem
 
 ## Acknowledgements
 
-[Boot.dev](https://www.boot.dev/courses/build-bookbot-python) - This project is created as part of the Backend curriculum
+[Boot.dev](https://www.boot.dev/courses/build-bookbot-python) - This project is created as part of the Backend curriculum for boot.dev
